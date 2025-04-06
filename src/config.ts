@@ -1,19 +1,19 @@
 export default {
-  Title: '韩小韩博客',
-  Site: 'https://www.vvhan.com',
-  Subtitle: '不曾与你分享的时间,我在进步.',
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
-  Author: '.𝙃𝙖𝙣',
-  Motto: '运气是计划之外的东西.',
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Title: '半粒糖博客',
+  Site: 'https://www.bltang.cc',
+  Subtitle: '跳出常规桎梏,拥抱别样精彩.',
+  Description: '半粒糖博客 我不是一个程序员，但是我却热爱着互联网，我是一个懒人，所以我喜欢使用程序帮我简化流程。希望在我的博客里对你在计算机的世界中起到一点点的帮助，所以我也喜欢分享一些自己所了解的东西!',
+  Author: '.Lin',
+  Motto: '拥抱不完美.',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1441849736&s=640',
   // Cover 网站缩略图
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2017-07-31',
   // 首页打字机文案列表
   TypeWriteList: [
-    '不曾与你分享的时间,我在进步.',
-    "I am making progress in the time I haven't shared with you.",
+    '跳出常规桎梏,拥抱别样精彩.',
+    "Break free from conventional constraints and embrace a different kind of excitement.",
   ],
   // 顶部 Banner 配置
   HomeBanner: {
@@ -49,7 +49,7 @@ export default {
     { text: '昔日', link: '/archives', icon: 'Nav_archives' },
     { text: '留言', link: '/message', icon: 'Nav_message' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
-    { text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
+    // { text: 'API', link: 'https://api.vvhan.com/', target: true, icon: 'Nav_link' },
   ],
   // 侧边栏个人网站
   WebSites: [
@@ -64,7 +64,7 @@ export default {
   // 侧边栏展示
   AsideShow: {
     // 是否展示个人网站
-    WebSitesShow: true,
+    WebSitesShow: false,
     // 是否展示公告
     TipsShow: true,
     // 是否展示数量统计
