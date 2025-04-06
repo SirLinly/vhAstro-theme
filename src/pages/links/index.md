@@ -13,8 +13,8 @@ type: "links"
 :::
 
 ```yaml
-name: 韩小韩博客
-link: https://www.vvhan.com/
-avatar: https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640
-desc: 运气是计划之外的东西.
+name: 半粒糖博客
+link: https://www.bltang.cc/
+avatar: https://q1.qlogo.cn/g?b=qq&nk=1441849736&s=640
+desc: 跳出常规桎梏，拥抱别样精彩。
 ```

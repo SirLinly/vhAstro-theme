@@ -3,7 +3,7 @@ export default {
   Site: 'https://www.bltang.cc',
   Subtitle: '跳出常规桎梏,拥抱别样精彩.',
   Description: '半粒糖博客 我不是一个程序员，但是我却热爱着互联网，我是一个懒人，所以我喜欢使用程序帮我简化流程。希望在我的博客里对你在计算机的世界中起到一点点的帮助，所以我也喜欢分享一些自己所了解的东西!',
-  Author: '.Lin',
+  Author: '小Lin',
   Motto: '拥抱不完美.',
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1441849736&s=640',
   // Cover 网站缩略图
@@ -23,7 +23,7 @@ export default {
     // 其他页面高度
     PageHeight: '28.88rem',
     // 背景
-    background: "url('/assets/images/home-banner.webp') no-repeat center 60%/cover",
+    background: "url('/assets/images/home-banner.png') no-repeat center 30%/cover",
   },
   // 博客主题配置
   Theme: {
